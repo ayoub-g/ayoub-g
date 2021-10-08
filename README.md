@@ -2,10 +2,10 @@
 
 I'm Ayoub, a fullstack software developer, I live in Tunis, and I dream to travel the world 🌎 
 
-I love coding, learning and sharing knowledge 🙂
+I love coding, learning and sharing knowledge 🙂, I'm currently learning about Ruby on Rails
 
 - 📫 How to reach me:
 - [drop me an email](mailto:gharbi.ayoub@gmail.com)
 - [linkedin](linkedin.com/in/ayoubgharbi)
 - [stackoverflow](https://stackoverflow.com/users/9691524/ayo)
-- 💬 Ask me about : React, Redux, Angular, Nodejs, REST, Graphql, TDD, and AWS serverless stack
+- 💬 Ask me about : React, Redux, RTK, Angular, Node.js, REST, GraphQl, TDD, and AWS serverless stack
