@@ -8,4 +8,4 @@ I love coding, learning and sharing knowledge 🙂
 - [drop me an email](mailto:gharbi.ayoub@gmail.com)
 - [linkedin](linkedin.com/in/ayoubgharbi)
 - [stackoverflow](https://stackoverflow.com/users/9691524/ayo)
-- 💬 Ask me about : React, Redux, RTK, Angular, Node.js, REST, GraphQl, TDD, and AWS serverless stack
+- 💬 Ask me about : React, Redux, RTK, Angular, NgRx, Node.js, REST, GraphQl, TDD, and AWS serverless stack
